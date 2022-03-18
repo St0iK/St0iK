@@ -6,7 +6,8 @@
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=St0iK&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=St0iK&theme=vue&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=St0iK&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=St0iK&theme=vue&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=St0iK&theme=vue&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=St0iK&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Random Dev Quote
 
@@ -14,5 +15,5 @@
 
 ## 🌐Socials
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/St0iK)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/St0iK)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitris-stoikidis/)
